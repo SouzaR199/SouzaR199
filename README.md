@@ -13,6 +13,23 @@ Sou desenvolvedor fullstack com experiência no desenvolvimento de aplicações 
 
 ---
 
+## 📱 Desenvolvimento Mobile com Ionic + Cordova
+
+Com foco em aplicações híbridas de alta performance, utilizo **Ionic Framework** junto ao **Apache Cordova** para entregar soluções móveis completas, com acesso a funcionalidades nativas como:
+
+- 📍 Geolocalização em segundo plano  
+- 📸 Câmera e galeria de imagens  
+- 🔔 Notificações push  
+
+Utilizo práticas modernas de desenvolvimento mobile para garantir:
+
+- Estrutura modular e escalável  
+- Integração contínua (CI/CD) com builds automáticos  
+- Otimizações para performance e usabilidade  
+- Suporte a múltiplas plataformas (Android / iOS)
+
+---
+
 ## 🛠️ Tecnologias que utilizo
 
 ### Frontend
@@ -42,10 +59,8 @@ Sou desenvolvedor fullstack com experiência no desenvolvimento de aplicações 
 
 ## 📫 Onde me encontrar
 
-- 💼 LinkedIn: [linkedin.com/in/gabrielalves](www.linkedin.com/in/gabriel-alves-ba1927178)
+- 💼 LinkedIn: [linkedin.com/in/gabrielalves](https://www.linkedin.com/in/gabriel-alves-ba1927178)
 
 ---
 
-<!-- opcional -->
 > 💡 *"Busco transformar ideias em soluções reais, com código limpo e bem arquitetado."*
-
