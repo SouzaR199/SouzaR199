@@ -35,14 +35,14 @@ Sou desenvolvedor fullstack com experiência no desenvolvimento de aplicações 
 
 ## 📈 GitHub Stats
 
-![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielalves&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielalves&layout=compact&theme=radical)
+![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=SouzaR199&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SouzaR199&layout=compact&theme=radical)
 
 ---
 
 ## 📫 Onde me encontrar
 
-- 💼 LinkedIn: [linkedin.com/in/gabrielalves](https://linkedin.com/in/gabrielalves)
+- 💼 LinkedIn: [linkedin.com/in/gabrielalves](www.linkedin.com/in/gabriel-alves-ba1927178)
 
 ---
 
